@@ -51,6 +51,8 @@ yarn server
 
 # Rode a aplicação
 yarn dev
+
+# Acesse http://localhost:8080 no seu navagador
 ```
 
 <br>
